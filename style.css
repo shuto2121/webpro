@@ -1,0 +1,11 @@
+
+body {
+    background-color: #bcccf376;
+    font-size: large;
+    font-family: serif;
+    text-align: center;
+}
+
+#text,#btn {
+    font-size: 30px;
+}
